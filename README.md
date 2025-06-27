@@ -11,6 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=DwiAbdulK&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DwiAbdulK&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DwiAbdulK&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DwiAbdulK&theme=aura_dark&no-frame=false&no-bg=false&margin-w=4)
