@@ -1,8 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m @DwiAbdulK<br>
 - 🌱 I’m currently learning Python Jupyter/PHP Laravel<br>
-- 📫 How to reach me instagram.com/dwirfx<br>
-
 
 
 ## 🌐 Socials:
