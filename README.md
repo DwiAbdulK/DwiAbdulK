@@ -33,17 +33,20 @@
 
 ###
 
-<div align="center">
-  <a href="https://instagram.com/dwirfzzz">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="25" alt="Instagram" />
+<div data-importer="socials" align="center">
+  <a href="https://linkedin.com/in/dwi-abdul-kholiq-8980b0377" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://linkedin.com/in/dwi-abdul-kholiq-8980b0377">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
+
+  <a href="mailto:emailkamu@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-  <a href="mailto:dwiabdul.k.19@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white" height="25" alt="Gmail" />
+
+  <a href="https://instagram.com/dwirfzzz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
 </div>
+
 
 ###
 
