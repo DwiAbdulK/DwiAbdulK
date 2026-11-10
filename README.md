@@ -34,24 +34,22 @@
 ###
 
 <div align="center">
-<a href="https://github.com/DwiAbdulK">
-<img src="https://img.shields.io/badge/GitHub-DwiAbdulK-181717?style=for-the-badge&logo=github" height="25" alt="GitHub" />
-</a>
-<!-- Replace the links below with your actual social profile URLs -->
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail" />
-</a>
+  <a href="https://instagram.com/dwirfzzz">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="25" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/dwi-abdul-kholiq-8980b0377">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dwiabdul.k.19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white" height="25" alt="Gmail" />
+  </a>
 </div>
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=DwiAbdulK&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/DwiAbdulK/DwiAbdulK/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+![](https://github-readme-stats.shion.dev/api?username=DwiAbdulK&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=DwiAbdulK&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=DwiAbdulK&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ###
 
